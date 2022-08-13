@@ -7,3 +7,4 @@ license = "GPL-3.0-or-later"
 
 [dependencies]
 sdl2 = { version = "0.35.2", features = ["bundled", "static-link"] }
+thiserror = "1.0.32"
