@@ -1,0 +1,8 @@
+[package]
+name = "rustout"
+version = "0.1.0"
+edition = "2021"
+authors = ["Kyle Coffey <kylecoffey1999@gmail.com>"]
+license = "GPL-3.0-or-later"
+
+[dependencies]
