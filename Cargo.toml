@@ -6,3 +6,4 @@ authors = ["Kyle Coffey <kylecoffey1999@gmail.com>"]
 license = "GPL-3.0-or-later"
 
 [dependencies]
+sdl2 = { version = "0.35.2", features = ["bundled", "static-link"] }
